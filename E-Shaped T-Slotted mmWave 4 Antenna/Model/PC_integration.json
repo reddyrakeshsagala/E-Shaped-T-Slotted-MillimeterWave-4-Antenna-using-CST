@@ -1,0 +1,94 @@
+{
+   "execution": {
+      "classname": "SMAPowerByEmagHPCFrame",
+      "libname": "SMAPowerByEmagUI"
+   },
+   "inputVariables": [
+      {
+         "name": "PL",
+         "type": "float",
+         "value": 2.83
+      },
+      {
+         "name": "SSL",
+         "type": "float",
+         "value": 15.0
+      },
+      {
+         "name": "MSL",
+         "type": "float",
+         "value": 22.5
+      },
+      {
+         "name": "SL",
+         "type": "float",
+         "value": 1.4
+      },
+      {
+         "name": "SAL",
+         "type": "float",
+         "value": 0.9
+      },
+      {
+         "name": "SBL",
+         "type": "float",
+         "value": 1.4
+      },
+      {
+         "name": "FL50",
+         "type": "float",
+         "value": 2.61
+      },
+      {
+         "name": "FL",
+         "type": "float",
+         "value": 5.94
+      },
+      {
+         "name": "PW",
+         "type": "float",
+         "value": 3.44
+      },
+      {
+         "name": "SSW",
+         "type": "float",
+         "value": 10.0
+      },
+      {
+         "name": "MSW",
+         "type": "float",
+         "value": 24.0
+      },
+      {
+         "name": "SW",
+         "type": "float",
+         "value": 0.1
+      },
+      {
+         "name": "SAW",
+         "type": "float",
+         "value": 0.4
+      },
+      {
+         "name": "SBW",
+         "type": "float",
+         "value": 0.6
+      },
+      {
+         "name": "FW50",
+         "type": "float",
+         "value": 1.55
+      },
+      {
+         "name": "FW",
+         "type": "float",
+         "value": 0.8
+      },
+      {
+         "name": "FPS",
+         "type": "float",
+         "value": 25.0
+      }
+   ],
+   "outputVariables": []
+}

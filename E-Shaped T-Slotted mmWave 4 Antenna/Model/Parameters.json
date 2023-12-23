@@ -1,0 +1,90 @@
+{
+    "parameters": [
+        {
+            "expr": "2.83",
+            "name": "PL",
+            "value": "2.83"
+        },
+        {
+            "expr": "15",
+            "name": "SSL",
+            "value": "15"
+        },
+        {
+            "expr": "22.5",
+            "name": "MSL",
+            "value": "22.5"
+        },
+        {
+            "expr": "1.4",
+            "name": "SL",
+            "value": "1.4"
+        },
+        {
+            "expr": "0.9",
+            "name": "SAL",
+            "value": "0.9"
+        },
+        {
+            "expr": "1.4",
+            "name": "SBL",
+            "value": "1.4"
+        },
+        {
+            "expr": "2.61",
+            "name": "FL50",
+            "value": "2.61"
+        },
+        {
+            "expr": "5.94",
+            "name": "FL",
+            "value": "5.94"
+        },
+        {
+            "expr": "3.44",
+            "name": "PW",
+            "value": "3.44"
+        },
+        {
+            "expr": "10",
+            "name": "SSW",
+            "value": "10"
+        },
+        {
+            "expr": "24",
+            "name": "MSW",
+            "value": "24"
+        },
+        {
+            "expr": "0.1",
+            "name": "SW",
+            "value": "0.1"
+        },
+        {
+            "expr": "0.4",
+            "name": "SAW",
+            "value": "0.4"
+        },
+        {
+            "expr": "0.6",
+            "name": "SBW",
+            "value": "0.6"
+        },
+        {
+            "expr": "1.55",
+            "name": "FW50",
+            "value": "1.55"
+        },
+        {
+            "expr": "0.8",
+            "name": "FW",
+            "value": "0.8"
+        },
+        {
+            "expr": "25",
+            "name": "FPS",
+            "value": "25"
+        }
+    ],
+    "version": 1
+}
